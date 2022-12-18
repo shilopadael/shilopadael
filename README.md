@@ -1,4 +1,4 @@
-### Hi there i'm Dan👋
+### Hi there i'm Shilo👋
 
 📘 I’m a 2nd year computer science student at Bar-Ilan University.
 
