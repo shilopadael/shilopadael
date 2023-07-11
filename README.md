@@ -16,4 +16,4 @@
 - ⚡ Fun fact: ...
 -->
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shilopadael&langs_count=5&layout=compact)](https://github.com/shilopadael/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shilopadael&layout=compact)](https://github.com/shilopadael/github-readme-stats)
