@@ -2,9 +2,6 @@
 
 📘 I’m a 2nd year computer science student at Bar-Ilan University.
 
-[![Dan's languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DanSaada&layout=compact)](https://github.com/DanSaada/github-readme-stats)
-
-
 <!--
 **shilopadael/shilopadael** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 [![Shilo's GitHub stats](https://github-readme-stats.vercel.app/api?username=shilopadael )](https://github.com/shilopadael/github-readme-stats)
