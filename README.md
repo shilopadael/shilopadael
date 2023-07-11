@@ -16,3 +16,9 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Java](https://progress-bar.dev/10/?title=Java&width=200)
+![C](https://progress-bar.dev/20/?title=C&width=200)
+![Assembly](https://progress-bar.dev/5/?title=Assembly&width=200)
+...
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shilopadael&langs_count=5&layout=compact)](https://github.com/shilopadael/github-readme-stats)
