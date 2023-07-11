@@ -1,6 +1,7 @@
 ### Hi there i'm Shilo👋
 
 📘 I’m a 2nd year computer science student at Bar-Ilan University.
+[![Shilo's GitHub stats](https://github-readme-stats.vercel.app/api?username=shilopadael&show_icons=true&theme=radical)](https://github.com/shilopadael/github-readme-stats)
 
 <!--
 **shilopadael/shilopadael** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
